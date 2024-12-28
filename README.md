@@ -10,20 +10,20 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-1. Introduction Section:
+**1. Introduction Section:**
 
     -   Explains the background of the company, including its purpose and operational history.
 
     -   Displays the total amount of money raised, the total number of games, and the number of games that remain unfunded.
 
-2. Stats Section:
+**2. Stats Section:**
 
     -   Includes detailed statistics about:
         -   Total individual contributions.
         -   Total dollars raised across all games.
         -   The top two most funded games, highlighted with their names in the section.
 
-3. Our Games Section:
+**3. Our Games Section:**
 
     -   Displays all games funded by Sea Monster Crowdfunding initially.
     -   Each game is presented as a card with:
@@ -33,26 +33,25 @@ The following **required** functionality is completed:
         -   Display only unfunded games.
         -   Display only funded games.
         -   Display all games.
-4.  Filtering Functionality:
+**4.  Filtering Functionality:**
 
     -  games are filtered dynamically using JavaScript functions and the filter method.
     -  buttons are connected to event listeners for easy interaction.
 
 The following **optional** features are implemented:
-1. Interactive Game Cards:
 
+**1. Interactive Game Cards:**
     -   Game cards have hover effects, including subtle shadows and scaling for a modern, interactive feel.
-2.  Search Bar:
+**2.  Search Bar:**
     -   Added a search bar above the buttons in the "Our Games" section.
 
-3.  Enhanced Navigation:
+**3.  Enhanced Navigation:**
     -   Includes a simple navigation bar at the top of the page, allowing users to jump to specific sections like "Stats" and "Our Games."
 
-4.  Improved Buttons:
+**4.  Improved Buttons:**
     -   Buttons include hover effects, color changes, and smooth transitions to enhance user interaction.
 
-
-4.  Footer:
+**5.  Footer:**
     -   Added a footer.
 
 
