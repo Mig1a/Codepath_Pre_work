@@ -42,6 +42,7 @@ The following **optional** features are implemented:
 
 **1. Interactive Game Cards:**
     -   Game cards have hover effects, including subtle shadows and scaling for a modern, interactive feel.
+    
 **2.  Search Bar:**
     -   Added a search bar above the buttons in the "Our Games" section.
 
