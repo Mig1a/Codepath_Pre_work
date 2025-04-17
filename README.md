@@ -1,4 +1,4 @@
-# WEB102 Prework - Crowdfund Arcade
+# Crowdfund Arcade
 
 Submitted by: Million Aboye
 
